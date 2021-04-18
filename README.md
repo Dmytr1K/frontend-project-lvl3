@@ -2,7 +2,7 @@
 
 Hexlet name: frontend-project-lvl3
 
-[![Node CI](https://github.com/Dmytr1K/frontend-project-lvl3/workflows/NodeCI/badge.svg)](https://github.com/Dmytr1K/frontend-project-lvl3/actions)
+[![Node CI](https://github.com/Dmytr1K/frontend-project-lvl3/workflows/Node%20CI/badge.svg)](https://github.com/Dmytr1K/frontend-project-lvl3/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/e2b9b49c1fea340bf0a1/maintainability)](https://codeclimate.com/github/Dmytr1K/frontend-project-lvl3/maintainability)
 [![Actions Status](https://github.com/Dmytr1K/frontend-project-lvl3/workflows/hexlet-check/badge.svg)](https://github.com/Dmytr1K/frontend-project-lvl3/actions)
 
